@@ -1,0 +1,5 @@
+print(int(1.97324))
+print(float("1.234"))
+print(str(1234))
+print(bool(1))
+print(bool(0))
