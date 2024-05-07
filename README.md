@@ -14,23 +14,20 @@ O objetivo deste bootcamp é me capacitar como um desenvolvedor backend especial
 
 - Aprendi os conceitos básicos de Python, incluindo variáveis, estruturas de controle e funções.
 - Explorei a sintaxe simplificada e poderosa da linguagem Python.
-
-### Módulo 2: Estrutura de Dados em Python
-
 - Estudei estruturas de dados essenciais em Python, como listas, dicionários e conjuntos.
 - Aprofundei meu conhecimento em manipulação de dados usando as funcionalidades oferecidas pelo Python.
 
-### Módulo 3: Programação Orientada a Objetos (POO) em Python
+### Módulo 2: Programação Orientada a Objetos (POO) em Python
 
 - Compreendi os conceitos fundamentais da programação orientada a objetos em Python.
 - Desenvolvi habilidades para criar classes, métodos e herança em Python.
 
-### Módulo 4: Desenvolvimento Web com FastAPI e LangChain
+### Módulo 3: Desenvolvimento Web com FastAPI e LangChain
 
 - Aprendi a construir APIs web com o framework FastAPI.
 - Integrei meus conhecimentos de Python com o LangChain para desenvolver soluções web avançadas.
 
-### Módulo 5: Test-Driven Development (TDD) com Python
+### Módulo 4: Test-Driven Development (TDD) com Python
 
 - Aprofundei meu entendimento sobre Test-Driven Development (TDD) e sua aplicação em Python.
 - Desenvolvi habilidades para escrever testes unitários e integrá-los ao processo de desenvolvimento.
