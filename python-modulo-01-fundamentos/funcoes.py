@@ -109,5 +109,11 @@ print(quadrado(2)) # 4
 numeros = [1, 2, 3, 4, 5]
 quadrados = map(lambda x: x ** 2, numeros)
 
+print(list(quadrados)) # [1, 4, 9, 16, 25]
 
+# Função filter
+numeros = [1, 2, 3, 4, 5]
+pares = filter(lambda x: x % 2 == 0, numeros)
+
+print(list(pares)) # [2, 4]
 
